@@ -1,11 +1,12 @@
-url: https://manfontan.github.io/unlimited-test-site/
-baseurl: /unlimited-test-site/
+url: https://manfontan.github.io/language-learning-hub/
+baseurl: /language-learning-hub/
 
 # Site settings
-title: Unlimited Performance Training
+title: Language Learning Hub
 email: my@email.com
-description: "unlimited performance training for cyclist runners and triathletes"
- 
+description: "where language happens"
+title-short: "LLH"
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: slack
@@ -22,8 +23,7 @@ address:
 markdown: kramdown
 permalink: pretty
 
-header-image: /img/victor.jpg
-upt-logo: /img/unlimitedlogocolor.jpg
+header-image: /img/header.jpg
 
 # Jekyll plugins for seo, and content indexing
 plugins:

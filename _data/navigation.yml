@@ -2,8 +2,8 @@ list:
 - name: SERVICES
   link: services
   description: We have amazing services (Label 4)
-- name: PORTFOLIO
-  link: portfolio
+- name: SUCCESS STORIES
+  link: success_stories
   description: Some of our success stories (Label 11)
 - name: ABOUT US
   link: about
@@ -14,4 +14,3 @@ list:
 - name: CONTACT
   link: contact
   description: Want to know more? We are waiting for you on our slack channel.
-

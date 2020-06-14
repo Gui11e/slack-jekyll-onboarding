@@ -189,8 +189,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial;
     -webkit-text-stroke: 0.2px ;
-    -webkit-text-stroke-color: #{{ site.data.template.color.secondary }}; 
-    color: #ffffff;
+    -webkit-text-stroke-color: #{{ site.data.template.color.navbar-brand-stroke }}; 
+    color: #{{ site.data.template.color.navbar-brand }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -223,7 +223,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #{{ site.data.template.color.navbar-background }};
+    color: #{{ site.data.template.color.navbar-section }};
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
@@ -270,7 +270,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: rgba(94, 111, 245, 0.673);
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -297,7 +297,10 @@ header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
 }
-
+header .intro-text  .header-span{
+  background-color: #{{ site.data.template.color.header-background }};
+  padding-right: 0.6%;
+}
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
@@ -319,6 +322,8 @@ header .intro-text .intro-angle {
   margin-bottom: 5px;
   left:50%;
 }
+
+
 
 @media(min-width:768px) {
     header .intro-text {

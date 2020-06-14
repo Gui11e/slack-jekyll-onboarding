@@ -3,11 +3,19 @@ color:
   primary: 03bafe
   secondary: 797979c6   
   secondary-dark: 333
-  header-text: fff
-  navbar-background: 797979c6
+  header-text: ffff00f0
+  header-background: 5e6ff5ac
+  navbar-brand: 000000bf
+  navbar-section: 000000bf
+  navbar-brand-stroke: 797979c6
+  navbar-background: 000
   muted: 777
 
 # Font Families
 font:
   primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  italics: 'Montserrat,"Kaushan Script","Helvetica Neue",Helvetica,Arial'
+
+section2_link: success_stories
+  

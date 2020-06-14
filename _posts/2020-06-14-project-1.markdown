@@ -1,0 +1,15 @@
+---
+title: Jekyll and Slack Quick Start
+subtitle: learning web and communications
+layout: default
+modal-id: 2
+date: 2020-06-14
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: June 2020
+client: Manuel Fontan
+category: Web Development
+description: Manuel did a great work teaching web technologies and Slack.
+link: "https://slack.com"
+---

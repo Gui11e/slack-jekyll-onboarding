@@ -2,16 +2,18 @@
 # We are using fa icons if you want to add more search https://fontawesome.com/icons?d=gallery
 header: We have amazing services (Label 4)
 list:
-- name: Triathlon (Label5)
-  icon: swimmer
+- name: English lessons
+  icon: fas fa-book-open
   description: with bla bla bla we are (Label 6)
 - name: Training Peaks (Label x)
-  icon: laptop
+  icon: fa fa-laptop
   description: Training Peaks weekly plans.... (Label 7)
 - name: Cycling (Label 8)
-  icon: biking
+  icon: fa fa-biking
   description: We train you like Miguelon (Label 9)
 - name: Strength Training (Label 10)
-  icon: dumbbell
+  icon: fa fa-dumbbell
   description: No pain No gain is a myth. Speed training is the thing (Label 11)
-
+- name: Italian lessons in Austria
+  icon: fas fa-music
+  description: learn italian in the country of classical music.

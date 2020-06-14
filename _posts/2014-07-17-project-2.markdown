@@ -10,6 +10,6 @@ alt: image-alt
 project-date: May 2016
 client: Manuel Fontan
 category: A2 Irish Cycling
-description: Manuel went from amateur cycling to complete an 8 day UCI race.
-
+description: Manuel was our student during his stay for the RAS. In his own words "Jesus getting those accents at 180bpm was a real challenge"
+link: "https://slack.com"
 ---

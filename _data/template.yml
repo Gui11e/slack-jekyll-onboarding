@@ -9,6 +9,7 @@ color:
   navbar-section: 000000bf
   navbar-brand-stroke: 797979c6
   navbar-background: 000
+  navbar-default: blue
   muted: 777
 
 # Font Families

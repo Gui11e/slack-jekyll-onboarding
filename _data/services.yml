@@ -2,7 +2,7 @@
 # We are using fa icons if you want to add more search https://fontawesome.com/icons?d=gallery
 header: We have amazing services (Label 4)
 list:
-- name: English lessons
+- name: English Lessons
   icon: fas fa-book-open
   description: with bla bla bla we are (Label 6)
 - name: Training Peaks (Label x)

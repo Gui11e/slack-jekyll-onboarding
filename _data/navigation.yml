@@ -1,16 +1,16 @@
 list: 
 - name: SERVICES
   link: services
-  description: We have amazing services (Label 4)
+  description: From online language lessons to exchange programmes abroad, we have it all! 
 - name: SUCCESS STORIES
   link: success_stories
-  description: Some of our success stories (Label 11)
+  description: Happy clients = Happy experiences
 - name: ABOUT US
   link: about
-  description: Here is my long short story about how I became a high performance coach (Label 13)
+  description: All started with a revolutionary idea to change the way we learn a foreign language 
 - name: TEAM
   link: team
-  description: This is an incredible team that will help you to go far and beyond (label 1)
+  description: Our incredible team will help you to go far and beyond
 - name: CONTACT
   link: contact
-  description: Want to know more? We are waiting for you on our slack channel.
+  description: Want to know more? Hit our slack channel for more info!

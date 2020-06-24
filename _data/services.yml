@@ -2,18 +2,22 @@
 # We are using fa icons if you want to add more search https://fontawesome.com/icons?d=gallery
 header: We have amazing services (Label 4)
 list:
-- name: English Lessons
+- name: Cambridge Exam Lessons (online)
   icon: fas fa-book-open
-  description: with bla bla bla we are (Label 6)
-- name: Training Peaks (Label x)
+  description: FCE - CAE - CPE
+- name: English Lessons (online)
   icon: fa fa-laptop
-  description: Training Peaks weekly plans.... (Label 7)
-- name: Cycling (Label 8)
-  icon: fa fa-biking
-  description: We train you like Miguelon (Label 9)
-- name: Strength Training (Label 10)
-  icon: fa fa-dumbbell
-  description: No pain No gain is a myth. Speed training is the thing (Label 11)
-- name: Italian lessons in Austria
-  icon: fas fa-music
-  description: learn italian in the country of classical music.
+  description: General English and Business English Lessons - All levels
+- name: English Lessons in Ireland
+  icon: fas fa-globe-europe
+  description: Learn English while discovering the Emerald Island
+- name: German Lessons (online)
+  icon: fas fa-comments
+  description: German without walls
+- name: Italian Lessons (online)
+  icon: fas fa-edit
+  description: Sharp that Italian accent like a pro without leaving your home.
+- name: Spanish Lessons (online)
+  icon: fas fa-chalkboard-teacher
+  description: Learning Spanish is cool, but learning Spanish online... ole! 
+  
